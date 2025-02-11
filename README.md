@@ -1,6 +1,6 @@
 # 🌐 Host Sync
 
-## 🚀 Project Overview
+
 Host Sync is an all-in-one short-term rental property manager and custom site manager. Designed for seamless integration, it supports Airbnb, VRBO, and Booking.com calendars using iCal. The platform enables property owners to showcase booking statuses, streamline guest browsing, manage checkouts, and perform rapid admin edits.
 
 ## 🛠️ Tech Stack
