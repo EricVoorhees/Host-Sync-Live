@@ -1,44 +1,49 @@
+# 🌐 Host Sync
 
-<body>
-    <header>Host Sync | The All-in-One Rental Manager</header>
-    <div class="container">
-        <h2>🚀 Introduction</h2>
-        <div class="section">
-            <p>Host Sync is a powerful all-in-one property management tool that synchronizes calendars across Airbnb, VRBO, and Booking.com, allowing hosts to streamline bookings and manage properties efficiently.</p>
-        </div>
-        <h2>🔨 Current Development</h2>
-        <div class="section">
-            <ul>
-                <li>Integrating iCal synchronization for real-time booking updates.</li>
-                <li>Building a secure admin panel for quick property edits.</li>
-                <li>Developing an intuitive guest checkout and browsing experience.</li>
-            </ul>
-        </div>
-        <h2>🔮 Future Plans</h2>
-        <div class="section">
-            <ul>
-                <li>Enhancing security features for hosts and guests.</li>
-                <li>Introducing a mobile-friendly dashboard for seamless management.</li>
-                <li>Implementing AI-powered pricing optimization.</li>
-            </ul>
-        </div>
-        <h2>⚙️ Technical Breakdown</h2>
-        <div class="section">
-            <p>Host Sync is built with a robust backend in Python and a modern front-end stack. The platform leverages secure API connections and scalable database management to ensure reliability.</p>
-        </div>
-        <h2>📸 Screenshots & Demos</h2>
-        <div class="section">
-            <p>Coming soon! Stay tuned for live demos and feature showcases.</p>
-        </div>
-        <h2>🤝 How to Contribute</h2>
-        <div class="section">
-            <p>We welcome contributions! Fork the repository, submit pull requests, and help shape the future of Host Sync.</p>
-        </div>
-        <div class="buttons">
-            <a href="#" class="button">📂 View Repository</a>
-            <a href="#" class="button">📖 Documentation</a>
-            <a href="#" class="button">✉️ Contact Us</a>
-        </div>
-    </div>
-</body>
-</html>
+## 🚀 Project Overview
+Host Sync is an all-in-one short-term rental property manager and custom site manager. Designed for seamless integration, it supports Airbnb, VRBO, and Booking.com calendars using iCal. The platform enables property owners to showcase booking statuses, streamline guest browsing, manage checkouts, and perform rapid admin edits.
+
+## 🛠️ Tech Stack
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background: #282c34; padding: 10px; border-radius: 8px; color: white;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20"> Python
+  </div>
+  <div style="background: #f7df1e; padding: 10px; border-radius: 8px; color: black;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"> JavaScript
+  </div>
+  <div style="background: #563d7c; padding: 10px; border-radius: 8px; color: white;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20"> Bootstrap
+  </div>
+  <div style="background: #007acc; padding: 10px; border-radius: 8px; color: white;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20"> TypeScript
+  </div>
+  <div style="background: #61dafb; padding: 10px; border-radius: 8px; color: black;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"> React
+  </div>
+  <div style="background: #326690; padding: 10px; border-radius: 8px; color: white;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="20"> PostgreSQL
+  </div>
+</div>
+
+## 🔧 Features & Functionality
+- **📅 Calendar Sync:** Integrates with Airbnb, VRBO, and Booking.com using iCal.
+- **🖥️ Custom Website Management:** Users can host and manage their own booking pages.
+- **🔐 Secure Admin Panel:** Allows fast updates, property management, and data control.
+- **📊 Analytics Dashboard:** Provides insights on bookings, revenue, and trends.
+- **💳 Payment Processing:** Planned integration with Stripe & PayPal.
+
+## 🔍 Current Development Focus
+- **Optimizing Backend:** Enhancing database queries and API performance.
+- **Refining UI/UX:** Improving mobile responsiveness and user experience.
+- **Implementing Webhooks:** Automating real-time booking updates.
+
+## 🚀 Future Plans
+- **Multi-Property Support:** Enable users to manage multiple properties under one account.
+- **Automated Messaging:** Implement AI-driven auto-responses for guests.
+- **AI-Powered Pricing:** Intelligent price adjustments based on demand and seasonality.
+
+## 💡 How to Contribute
+Interested in contributing? Open issues, submit PRs, or discuss ideas in our community!
+
+---
+🌟 _Stay tuned for updates!_
