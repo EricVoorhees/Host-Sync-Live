@@ -1,4 +1,13 @@
-# 🌐 Host Sync
+# 🌐     8 8888        8     ,o888888o.       d888888o. 8888888 8888888888 d888888o.  `8.`8888.      ,8' b.             8     ,o888888o.   
+    8 8888        8  . 8888     `88.   .`8888:' `88.     8 8888     .`8888:' `88. `8.`8888.    ,8'  888o.          8    8888     `88. 
+    8 8888        8 ,8 8888       `8b  8.`8888.   Y8     8 8888     8.`8888.   Y8  `8.`8888.  ,8'   Y88888o.       8 ,8 8888       `8.
+    8 8888        8 88 8888        `8b `8.`8888.         8 8888     `8.`8888.       `8.`8888.,8'    .`Y888888o.    8 88 8888          
+    8 8888        8 88 8888         88  `8.`8888.        8 8888      `8.`8888.       `8.`88888'     8o. `Y888888o. 8 88 8888          
+    8 8888        8 88 8888         88   `8.`8888.       8 8888       `8.`8888.       `8. 8888      8`Y8o. `Y88888o8 88 8888          
+    8 8888888888888 88 8888        ,8P    `8.`8888.      8 8888        `8.`8888.       `8 8888      8   `Y8o. `Y8888 88 8888          
+    8 8888        8 `8 8888       ,8P 8b   `8.`8888.     8 8888    8b   `8.`8888.       8 8888      8      `Y8o. `Y8 `8 8888       .8'
+    8 8888        8  ` 8888     ,88'  `8b.  ;8.`8888     8 8888    `8b.  ;8.`8888       8 8888      8         `Y8o.`    8888     ,88' 
+    8 8888        8     `8888888P'     `Y8888P ,88P'     8 8888     `Y8888P ,88P'       8 8888      8            `Yo     `8888888P'   
 
 
 Host Sync is an all-in-one short-term rental property manager and custom site manager. Designed for seamless integration, it supports Airbnb, VRBO, and Booking.com calendars using iCal. The platform enables property owners to showcase booking statuses, streamline guest browsing, manage checkouts, and perform rapid admin edits.
